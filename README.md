@@ -25,7 +25,7 @@
 ### Шаги для запуска:
 1.  **Склонируйте репозиторий** на свой локальный компьютер:
     ```bash
-    git clone https://github.com/your-username/Radiation-Diagnostics-Dashboard.git
+    git clone https://github.com/masenochka/dashboard-of-the-radiation-diagnostics-department
     ```
 2.  Перейдите в директорию проекта.
 3.  **Откройте файл `.pbix`:** Дважды щелкните по файлу `Radiation_Diagnostics_Dashboard.pbix`. Он автоматически откроется в Power BI Desktop.
